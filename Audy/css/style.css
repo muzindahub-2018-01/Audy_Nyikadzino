@@ -1,0 +1,42 @@
+p{
+	
+	font-family:comic sans;
+	color:blue;
+	font size:14px;
+	
+	
+	
+}
+	header{
+		height:10%;
+		width:100%;
+		background-color:salmon;
+		border:solid black;
+		padding:15px;
+		font-family:sans serif;
+		font-size:30px
+	}
+	
+	nav{
+		height:3%;
+		width:98%;
+		background-color:light salmon;
+		border:solid black;
+		background-color:salmon;
+		padding:15px;
+		font-family:sans serif:
+		font-size:30px;
+	}
+	section{
+		height:350px;
+		width:100%x;
+		background-color:pink;
+		border:5px solid black;
+		padding:15px;
+		float:left
+	    font-family:sans serif;
+		font-size:15px;
+		color:red;
+	}
+	
+		
